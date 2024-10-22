@@ -15,17 +15,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>🙌 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Bashaaib&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Bashaaib&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Bashaaib&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Bashaaib&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Bashaaib&theme=github_dark" />
-</div>
-
-<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah-BA-Shoaieb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aosb._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A_Bashaaib) 
@@ -66,6 +56,17 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # 📊 GitHub Stats:
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Bashaaib&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Bashaaib&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Bashaaib&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Bashaaib&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Bashaaib&theme=github_dark" />
+</div>
+
+<br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Bashaaib&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Bashaaib&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bashaaib&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
