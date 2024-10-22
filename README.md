@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python,dart&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=oracle,firebase&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=firebase&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=bootsrap&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=flutter,bootstrap&theme=dark"></td>
 </tr>
 
 <tr>
