@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=oracle,firebase&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
@@ -53,12 +53,12 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=bootsrap&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 </tr>
 
 </table>
