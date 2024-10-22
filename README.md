@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark"></td>
 </tr>
 
 </table>
