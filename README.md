@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://readme-typing-svg.herokuapp.com?color=a55bff&width=380&height=28&lines=Hi👋+I'm+Abdullah+Bashaaib..;IT+Student,👨‍💻✨...;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+😊....&center=true"></a></p>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>🙌 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>🙌 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about anything<br>⚡ Fun fact
 
 
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,cs,java,python,dart&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,cs,java,python,dart,js&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react,flutter" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,flutter" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
