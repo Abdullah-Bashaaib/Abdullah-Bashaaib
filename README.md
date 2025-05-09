@@ -34,16 +34,16 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,react,flutter" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,flutter" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dart&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=flutter,bootstrap&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=flutter&theme=dark"></td>
 </tr>
 
 <tr>
