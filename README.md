@@ -1,80 +1,99 @@
-
-<!--
-Abdullah-Bashaaib/Abdullah-Bashaaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--👋 Hi, I’m @Abdullah-Bashaaib
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://readme-typing-svg.herokuapp.com?color=a55bff&width=380&height=28&lines=Hi👋+I'm+Abdullah+Bashaaib..;IT+Student,👨‍💻✨...;Open-Source+Enthusiast..;Learning+In+Public..;Nice+To+Meet+You+😊....&center=true"></a></p>
-
-# 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking to collaborate on<br>🙌 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about anything<br>⚡ Fun fact
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah-BA-Shoaieb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aosb._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@A_Bashaaib) 
-
-# 💻 Tech Stack:
-<!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) -->
-<h3> Languages, Tools and Technologies 🚀 </h3>
-<table>
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,cs,java,python,dart,js&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=firebase&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,flutter" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dart&theme=dark"></td>
-</tr>
-
-<tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=flutter&theme=dark"></td>
-</tr>
-
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark"></td>
-</tr>
-
-</table>
-
-<br>
-
-# 📊 GitHub Stats:
-</div>
+<!-- الملف يظهر مباشرة في حسابك كبروفايل احترافي ويدعم الأنيميشن والمؤثرات والأيقونات -->
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Bashaaib&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Bashaaib&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Bashaaib&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Bashaaib&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Bashaaib&theme=github_dark" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=a55bff&width=380&height=28&lines=👋+مرحباً+أنا+عبدالله+بشعيب...;مبرمج+ومطور+برمجيات+شغوف!;مستعد+للتحديات+الجديدة+🚀" />
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Abdullah%20Bashaaib%20|%20FLutter%20Developer+%F0%9F%92%BB&fontSize=40&fontAlign=50)
+
 </div>
 
-<br>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Bashaaib&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Bashaaib&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bashaaib&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdullah-Bashaaib&limit=5&theme=default&combine_all_yearly_contributions=true)
+---
+
+# 💫 نبذة عني
+<p align="center">
+مطور برمجيات، خريج تقنية معلومات من اليمن،
+شغوف بتطوير الحلول البرمجية وتعلم التقنيات الحديثة.
+دائماً أبحث عن فرص التعاون والإبداع والمنافسة في المشاريع البرمجية المحلية والعالمية.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah-Bashaaib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🛠️ المهارات والتقنيات
+
+<table>
+  <tr>
+    <td>🔤 <b>لغات البرمجة</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js&theme=dark" height="40"></td>
+  </tr>
+  <tr>
+    <td>🖥️ <b>تطوير تطبيقات الهاتف</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40"></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>تطوير الويب (Frontend)</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js" height="40"></td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>تقنيات قواعد البيانات</b></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40"></td>
+  </tr>
+  <tr>
+    <td>🚀 <b>الأدوات البرمجية</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40"></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# 📂 المشاريع والإنجازات
+- تطوير تطبيقات باستخدام Flutter وDart تخدم المجتمع المحلي.
+- تطوير أنظمة إدارة ومراقبة باستخدام C++ وJava في مشاريع جامعية.
+- مشاريع على GitHub: [Abdullah-Bashaaib](https://github.com/Abdullah-Bashaaib)
+
+---
+
+# 🏆 الإنجازات والشهادات
+
+- <img src="https://img.icons8.com/fluency/48/experimental-certificate-2-ambu.png" height="20"/> خريج تقنية معلومات 2022
+- <img src="https://img.icons8.com/color/48/checked-checkbox.png" height="20"/> مستخدم للغات وتقنيات حديثة في تطوير البرمجيات
+- <img src="https://img.icons8.com/color/48/trophy.png" height="20"/> مشاركات في مجتمعات ومنافسات برمجية (جاهز لإضافة تفاصيل بناءً على معلوماتك)
+
+---
+
+# 🌐 الشبكات الاجتماعية
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah-BA-Shoaieb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bashaeib0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Abdullah-Bashaaib/)
+
+---
+
+# 📊 إحصائيات جيتهاب & النشاط البرمجي
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullah-Bashaaib&theme=github_dark" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Bashaaib&theme=github_dark"  height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah-Bashaaib&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdullah-Bashaaib&theme=github_dark"/>
+</div>
+
+---
+
+# 📫 للتواصل
+- عبر GitHub: [Abdullah-Bashaaib](https://github.com/Abdullah-Bashaaib)
+- البريد: <i>ِabdullahbashaaib25@gmail.com</i>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=40f7fa&width=380&height=28&lines=%D8%B4%D8%A7%D9%83%D8%B1+%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%83+%D9%84%D9%85%D9%84%D9%81%D9%8A+%F0%9F%92%BB;%D9%84%D8%A7+%D8%AA%D8%AA%D8%B1%D8%AF%D8%AF+%D9%81%D9%8A+%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84+%D9%84%D9%84%D8%B9%D9%85%D9%84+%21" />
+</div>
+
+---
+
+*ملحوظة*: يمكنك طلب إضافة أو تعديل أي قسم (مشروع معين، شهادة، تفاصيل عملية، أهداف مستقبلية، أو طريقة تواصل!) لجعل ملفك أكثر تميزًا حسب رغبتك.
