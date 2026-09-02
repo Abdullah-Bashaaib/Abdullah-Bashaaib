@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=a55bff&width=380&height=28&lines=👋+مرحباً+أنا+عبدالله+بشعيب...;مبرمج+ومطور+برمجيات+شغوف!;مستعد+للتحديات+الجديدة+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?color=a55bff&width=380&height=28&lines=👋+مرحباً+أنا+عبدالله+باشعيب...;مبرمج+ومطور+برمجيات+شغوف!;مستعد+للتحديات+الجديدة+🚀" />
 
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Abdullah%20Bashaaib%20|%20FLutter%20Developer+%F0%9F%92%BB&fontSize=40&fontAlign=50)
 
